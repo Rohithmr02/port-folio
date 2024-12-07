@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/port-folio/static/css/main.44591d26.css",
+    "main.js": "/port-folio/static/js/main.f82b4e7a.js",
+    "static/media/Aboutimage.JPG": "/port-folio/static/media/Aboutimage.95d8910634bc8e0a2f5d.JPG",
+    "static/media/Background.jpg": "/port-folio/static/media/Background.4f1605367edd9417581a.jpg",
+    "static/media/blog.png": "/port-folio/static/media/blog.97752dad8ca388214a85.png",
+    "static/media/food.png": "/port-folio/static/media/food.70bd257af112f335956f.png",
+    "static/media/farmer.png": "/port-folio/static/media/farmer.e252d421d653e0a17d7e.png",
+    "static/media/programming.png": "/port-folio/static/media/programming.11d7f1e24334a006f8cc.png",
+    "static/media/atom.png": "/port-folio/static/media/atom.4907780fed1a80af7725.png",
+    "static/media/resume.pdf": "/port-folio/static/media/resume.ab31a94d79cb61ad4cf0.pdf",
+    "static/media/python.png": "/port-folio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/express-js.png": "/port-folio/static/media/express-js.5400d59fde3fda29c607.png",
+    "static/media/sql-server.png": "/port-folio/static/media/sql-server.64b3eb63f995c0da35b3.png",
+    "static/media/java-script.png": "/port-folio/static/media/java-script.6de2585ce2566c862a58.png",
+    "static/media/database.png": "/port-folio/static/media/database.bb2414e41e43ae15410c.png",
+    "static/media/html.png": "/port-folio/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/css-3.png": "/port-folio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "index.html": "/port-folio/index.html",
+    "main.44591d26.css.map": "/port-folio/static/css/main.44591d26.css.map",
+    "main.f82b4e7a.js.map": "/port-folio/static/js/main.f82b4e7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44591d26.css",
+    "static/js/main.f82b4e7a.js"
+  ]
+}
